@@ -1,2 +1,2 @@
 # repo_zero
-This is my first repo
+This is my first repo, created according my course
